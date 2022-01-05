@@ -3,4 +3,7 @@ DQL:
 Commands of sql that are used to retrieve the data from database are collectively called dql statements.
 
 DDL:
-Data Definfition Language changes the structure of the table like creating a table, deleting a table, altering the table.,etc.,
+Data Definfition Language changes the structure of the table like creating a table, deleting a table, altering the table,etc.,
+
+DML:
+Data Manipulation Language commands are used to insert data,update data,delete data in sql database table.
