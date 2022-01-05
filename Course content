@@ -1,1 +1,6 @@
 SQL Statements:
+DQL:
+Commands of sql that are used to retrieve the data from database are collectively called dql statements.
+
+DDL:
+Data Definfition Language changes the structure of the table like creating a table, deleting a table, altering the table.,etc.,
