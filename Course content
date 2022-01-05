@@ -1,6 +1,9 @@
 SQL Statements:
+
 DQL:
 Commands of sql that are used to retrieve the data from database are collectively called dql statements.
 
 DDL:
 Data Definfition Language changes the structure of the table like creating a table, deleting a table, altering the table.,etc.,
+
+Truncate is not a DML Command as per the sql rules but in my opinion its a dml command since it doesnt affect the structure of the table.
